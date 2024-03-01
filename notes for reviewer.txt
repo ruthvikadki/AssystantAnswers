@@ -1,0 +1,5 @@
+
+# Had major issues with installation of rest_framework as I have installed DjangoRestFramework but couldn't install
+# Due to not installing rest_framework, I was not able to run the project but the code part has been done to some extent.
+# Couldn't implement Unit Test and could not add URLS for viewsets and API docs as I'm unaware of how to implement.
+# backports.zoneinfo==0.2.1 ( Failed to install this requirement )
